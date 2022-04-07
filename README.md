@@ -1,2 +1,2 @@
-# Visi-n_Computadora_TP
+# Visión_Computadora_TP
 TPs del curso de visión por computadora - UBA
