@@ -22,7 +22,7 @@ Estado del detector: DESPIERTO.
 
 ![operaciones](imagenes/despierto.jpg)
 
-Estado del detector: DUERMIENDO.
+Estado del detector: DURMIENDO.
 
 ![operaciones](imagenes/durmiendo.jpg)
 
