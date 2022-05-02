@@ -11,26 +11,24 @@ Una empresa de transporte quiere monitorear la actividad de sus conductores dura
 del conductor.
 
 ## Recursos:
-
 Se usó un video en calidad HD 720P.
 ```
 video_demo_720p.mp4
 
 ```
 
-## GUI de la App:
+## Resultados:
 Estado del detector: DESPIERTO.
 
 ![operaciones](imagenes/despierto.jpg)
-
-Estado del detector: PARPADEO.
-
-![operaciones](imagenes/parpadeo.jpg)
 
 Estado del detector: DUERMIENDO.
 
 ![operaciones](imagenes/durmiendo.jpg)
 
+Estado del detector: PARPADEO.
+
+![operaciones](imagenes/parpadeo.jpg)
 
 ## Demostración de Funcionamiento:
 * Funcionamiento.
